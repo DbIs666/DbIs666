@@ -14,6 +14,16 @@ A comprehensive wiki and strategy guide for the Rogueblox game on Roblox. Featur
 
 **Tech Stack:** HTML5, CSS3, JavaScript, TailwindCSS
 
+### 🎮 [Roblox Games Wiki](http://robloxgames.wiki/)
+A comprehensive wiki platform for Roblox gaming enthusiasts. Providing detailed guides and strategies for hundreds of popular Roblox games:
+- Game walkthroughs and strategies for all skill levels
+- Comprehensive coverage of different game categories (Sandbox, Action, RPG)
+- Community-driven content with regular updates
+- Game mechanics, items, and maps documentation
+- Expert insights from experienced players and developers
+
+**Tech Stack:** Community wiki platform with dynamic content management
+
 ### 🌱 [2025 Best Grow a Garden Calculator](http://growagardencalculators.net/)
 A collection of helpful calculators and tools for gardening enthusiasts. Helping gardeners optimize their growing strategies with:
 - Plant spacing calculators
